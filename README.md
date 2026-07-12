@@ -102,18 +102,6 @@ Key Deliverables:
 ---
 
 # DBA Engineering Toolkit
-
-## SQL Scripts
-
-Includes:
-
-* SQL Server Health Checks
-* Database Inventory Scripts
-* Performance Analysis
-* Blocking & Deadlock Analysis
-* Security Auditing
-* Always On Health Monitoring
-
 ---
 
 # Technologies

@@ -1,0 +1,202 @@
+# Project 9
+
+# Fondaction
+
+# SQL Server On-Premises to Microsoft Azure Lift-and-Shift Migration
+
+---
+
+## Project Overview
+
+**Organization:** Fondaction
+**Role:** Senior SQL Server DBA / Data Architect
+**Project Type:** Cloud Database Migration & Infrastructure Modernization
+**Migration Strategy:** Lift-and-Shift Approach
+
+---
+
+# Business Context
+
+Fondaction was modernizing its technology infrastructure by adopting Microsoft Azure cloud services.
+
+The objective was to migrate selected SQL Server workloads from traditional on-premises infrastructure to Azure while maintaining:
+
+* Database availability
+* Application compatibility
+* Security standards
+* Performance requirements
+* Operational stability
+
+---
+
+# Business Challenge
+
+The migration required moving enterprise SQL Server workloads while addressing:
+
+* Existing application dependencies
+* Database compatibility requirements
+* Security and access control
+* Performance validation
+* Backup and recovery strategy
+* Minimal business disruption
+
+The migration needed to maintain the reliability expected from financial-sector applications.
+
+---
+
+# My Role
+
+As Senior SQL Server DBA and Data Architect, I was responsible for:
+
+* Evaluating SQL Server environments before migration.
+* Supporting Azure migration planning.
+* Preparing databases for cloud transition.
+* Executing migration activities.
+* Validating database functionality after migration.
+* Supporting application teams during transition.
+* Ensuring security and operational standards were maintained.
+
+---
+
+# Technical Environment
+
+## Source Platform
+
+* Microsoft SQL Server on-premises infrastructure
+
+## Target Platform
+
+* Microsoft Azure Cloud
+* Azure SQL services
+* SQL Server workloads hosted in Azure
+
+## Technologies
+
+* SQL Server
+* Azure
+* T-SQL
+* PowerShell
+* Backup and Restore
+* Windows Server
+
+---
+
+# Migration Approach
+
+## Assessment Phase
+
+Performed analysis of:
+
+* SQL Server instances
+* Database inventory
+* Database sizes
+* Application dependencies
+* Security configurations
+* Backup requirements
+* Performance characteristics
+
+Identified migration requirements and potential risks.
+
+---
+
+# Migration Preparation
+
+Prepared databases for migration through:
+
+* Database health validation
+* Backup verification
+* Compatibility checks
+* Security review
+* Dependency analysis
+
+---
+
+# Migration Execution
+
+Performed migration activities including:
+
+* Database backup and restore processes
+* Azure environment configuration
+* Database validation
+* Application connectivity testing
+* Performance verification
+
+---
+
+# Post-Migration Activities
+
+After migration:
+
+* Validated database integrity.
+* Verified application connectivity.
+* Reviewed performance metrics.
+* Updated operational documentation.
+* Supported production stabilization.
+
+---
+
+# Security & Compliance Considerations
+
+Ensured database security requirements were maintained including:
+
+* Access control validation
+* User and permission review
+* Secure database communication
+* Backup protection
+* Operational documentation
+
+---
+
+# Performance Optimization
+
+Performed post-migration reviews including:
+
+* Query performance analysis
+* Index validation
+* Database configuration review
+* Resource utilization monitoring
+
+Ensured migrated workloads operated efficiently in the Azure environment.
+
+---
+
+# Operational Improvements
+
+The migration provided:
+
+* Modern cloud-based infrastructure.
+* Improved scalability options.
+* Reduced dependency on physical infrastructure.
+* Better foundation for future cloud adoption.
+* Increased flexibility for business growth.
+
+---
+
+# Technologies Used
+
+Microsoft Azure
+Azure SQL Services
+Microsoft SQL Server
+T-SQL
+PowerShell
+Windows Server
+Database Migration Strategy
+Backup & Restore
+
+---
+
+# Skills
+
+✓ Azure Database Migration
+✓ Cloud Architecture
+✓ SQL Server Modernization
+✓ Migration Planning
+✓ Production Database Management
+✓ Application Integration Support
+✓ Enterprise Change Management
+
+---
+
+# Confidentiality Note
+
+This case study describes technical responsibilities and project outcomes while excluding confidential company information, internal configurations, and proprietary architecture details.

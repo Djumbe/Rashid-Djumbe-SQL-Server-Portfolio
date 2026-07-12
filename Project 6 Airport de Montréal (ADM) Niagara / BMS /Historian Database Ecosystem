@@ -1,0 +1,40 @@
+Project Overview
+
+Designed and supported SQL Server database infrastructure supporting airport facility management and operational data collection.
+
+Responsibilities
+
+Supported:
+
+Niagara Building Management System (BMS)
+
+Supporting:
+
+Building automation
+Facility monitoring
+Operational data storage
+Historian Platform
+
+Supporting:
+
+Operational data collection
+Historical data storage
+Energy and system analysis
+Technical Responsibilities
+Database configuration
+Performance monitoring
+Backup strategy
+Availability management
+Troubleshooting
+Operational support
+Business Impact
+
+Enabled reliable collection and availability of operational facility data supporting airport infrastructure.
+
+Technologies
+
+SQL Server
+Historian Systems
+Niagara BMS
+T-SQL
+Database Monitoring

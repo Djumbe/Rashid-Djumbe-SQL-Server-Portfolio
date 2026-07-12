@@ -1,0 +1,240 @@
+# Project 7
+
+# UAP Inc. (NAPA Auto Parts)
+
+# Enterprise Karmak Fusion Azure Cloud Migration to On-Premises SQL Server Platform
+
+---
+
+## Project Overview
+
+**Organization:** UAP Inc. (NAPA Auto Parts)
+**Role:** Senior SQL Server Database Consultant
+**Duration:** 6-Month Contract
+**Project Type:** Enterprise Database Migration & High Availability Implementation
+
+---
+
+# Business Context
+
+UAP Inc. supports a large network of automotive parts retailers across Canada through enterprise applications, including the Karmak Fusion platform.
+
+The organization operated Karmak Fusion database environments hosted in Microsoft Azure Cloud. As part of a cost optimization and infrastructure strategy initiative, UAP decided to migrate selected enterprise database workloads from Azure Cloud back to on-premises SQL Server infrastructure.
+
+The migration required careful planning to maintain business continuity for retail operations while reducing infrastructure costs.
+
+---
+
+# Business Challenge
+
+The migration presented several technical challenges:
+
+* Large-scale database migration across multiple locations.
+* Maintaining application availability during transition.
+* Migrating multi-terabyte databases.
+* Minimizing downtime for retail operations.
+* Ensuring data integrity after migration.
+* Establishing disaster recovery capabilities after migration.
+* Standardizing SQL Server configurations across environments.
+
+---
+
+# My Role
+
+As Senior SQL Server Database Consultant, I was responsible for leading the database migration activities, including:
+
+* Migration planning and execution.
+* SQL Server architecture review.
+* Database migration strategy.
+* Pre-migration assessment.
+* Data validation.
+* Performance verification.
+* High availability implementation.
+* Technical documentation.
+
+I worked closely with:
+
+* Infrastructure teams
+* Application teams
+* Network teams
+* Retail support teams
+* Business stakeholders
+
+to ensure successful migration delivery.
+
+---
+
+# Environment
+
+## Application Platform
+
+Karmak Fusion Enterprise Platform
+
+## Database Environment
+
+Microsoft SQL Server
+
+Migration Scope:
+
+* **60 SQL Server instances**
+* **240 production databases**
+* **64 automotive parts retailers impacted**
+* Corporate environment included
+* Main Karmak Fusion database approximately **2 TB**
+* Supporting databases approximately **20 GB or smaller**
+
+---
+
+# Migration Strategy
+
+The migration approach included:
+
+## Assessment Phase
+
+Performed analysis of:
+
+* SQL Server configurations
+* Database sizes
+* Dependencies
+* Application connectivity requirements
+* Backup and recovery requirements
+
+---
+
+## Migration Preparation
+
+Prepared target SQL Server environments by:
+
+* Validating hardware capacity
+* Configuring SQL Server instances
+* Reviewing security requirements
+* Preparing database migration procedures
+
+---
+
+## Database Migration Execution
+
+Performed migration activities including:
+
+* Database backup and restore operations
+* Data validation
+* Login and permission migration
+* SQL Agent job validation
+* Application connectivity testing
+
+---
+
+## Post-Migration Validation
+
+Validated:
+
+* Database consistency
+* Application functionality
+* Performance
+* Backup operations
+* Maintenance processes
+
+---
+
+# High Availability & Disaster Recovery Implementation
+
+After migration, implemented SQL Server Always On Availability Groups to provide:
+
+* Database redundancy
+* Disaster recovery capability
+* Improved availability
+* Faster recovery from failures
+
+Activities included:
+
+* Availability Group configuration
+* Replica setup
+* Listener configuration
+* Failover testing
+* Recovery validation
+
+---
+
+# Technical Challenges
+
+## Large Database Migration
+
+The primary Karmak Fusion database was approximately **2 TB**, requiring:
+
+* Careful migration scheduling
+* Data transfer planning
+* Validation procedures
+* Downtime minimization
+
+---
+
+## Multi-Location Deployment
+
+The migration impacted:
+
+* Corporate database environments
+* Multiple retail locations across Canada
+
+Required:
+
+* Standardized deployment procedures
+* Repeatable migration methodology
+* Coordinated execution schedule
+
+---
+
+## Business Continuity
+
+Retail operations depended on database availability.
+
+The migration strategy ensured:
+
+* Controlled cutover
+* Data integrity
+* Operational continuity
+* Rapid rollback capability if required
+
+---
+
+# Business Impact
+
+The project delivered:
+
+* Successful migration of enterprise Karmak Fusion databases from Azure Cloud to on-premises infrastructure.
+* Reduced infrastructure operating costs.
+* Improved database control and operational flexibility.
+* Standardized SQL Server environments.
+* Improved disaster recovery capability through Always On implementation.
+
+---
+
+# Technologies Used
+
+Microsoft SQL Server
+Azure Cloud
+SQL Server Always On Availability Groups
+Database Migration Strategy
+Backup & Restore
+T-SQL
+Windows Server
+High Availability Architecture
+Disaster Recovery Planning
+
+---
+
+# Skills Demonstrated
+
+✓ Enterprise Database Migration
+✓ Azure Cloud Migration
+✓ SQL Server Architecture
+✓ Large Database Handling
+✓ High Availability Implementation
+✓ Disaster Recovery Design
+✓ Production Cutover Management
+✓ Cross-Team Technical Leadership
+
+---
+
+# Confidentiality Note
+
+This case study describes technical responsibilities and project outcomes while excluding confidential customer data, internal configurations, and proprietary business information.

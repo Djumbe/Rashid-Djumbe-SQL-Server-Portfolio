@@ -1,0 +1,180 @@
+# Project 1
+
+# Airport de Montréal (ADM)
+
+# GES to SMARTID Ecosystem Migration
+
+## Project Overview
+
+**Organization:** Airport de Montréal (ADM)
+**Role:** Senior SQL Server DBA / Database Technical Lead
+**Project Type:** Enterprise Application and Database Migration
+
+---
+
+# Business Challenge
+
+ADM operated the GES ecosystem supporting critical airport processes. As part of a modernization initiative, ADM migrated to the SMARTID ecosystem.
+
+The challenge was to migrate and transform database components while ensuring:
+
+* Data integrity
+* Business continuity
+* Minimal operational disruption
+* Accurate data transformation
+* Secure handling of sensitive information
+
+The migration required coordination between database teams, application teams, infrastructure teams, and business stakeholders.
+
+---
+
+# My Role
+
+As Senior SQL Server DBA and Database Technical Lead, I was responsible for:
+
+* Providing database architecture guidance for the migration.
+* Analyzing existing GES database structures.
+* Supporting data migration planning and execution.
+* Designing migration validation processes.
+* Ensuring SQL Server environments were prepared for the SMARTID platform.
+* Supporting testing, troubleshooting, and production deployment activities.
+
+---
+
+# Technical Environment
+
+## Database Platform
+
+* Microsoft SQL Server
+* SQL Server 2016+
+* T-SQL
+* SQL Server Security Features
+
+## Systems
+
+* GES Ecosystem
+* SMARTID Ecosystem
+
+## Activities
+
+* Database analysis
+* Data mapping
+* Data validation
+* Migration support
+* Production deployment
+* Post-migration stabilization
+
+---
+
+# Key Responsibilities & Deliverables
+
+## Database Assessment
+
+Performed analysis of existing GES databases including:
+
+* Database structures
+* Tables and relationships
+* Stored procedures
+* Dependencies
+* Data quality considerations
+
+Identified migration impacts and technical requirements.
+
+---
+
+## Migration Strategy
+
+Supported the creation of migration approaches including:
+
+* Data extraction strategy
+* Transformation requirements
+* Validation procedures
+* Cutover planning
+* Rollback considerations
+
+---
+
+## Data Integrity Validation
+
+Implemented validation processes to ensure:
+
+* Record completeness
+* Data consistency
+* Referential integrity
+* Application compatibility
+
+---
+
+## Legacy Data Strategy
+
+For GES data that was not migrated into SMARTID:
+
+Designed a data blueprint covering:
+
+* Historical data retention
+* Future accessibility
+* Reporting requirements
+* Data governance considerations
+
+The blueprint ensured that valuable historical information remained available while reducing dependency on the legacy platform.
+
+---
+
+# Security Considerations
+
+Because airport systems contain sensitive operational information, migration activities included:
+
+* Secure data handling
+* Access control validation
+* Database security review
+* Controlled migration processes
+
+---
+
+# Challenges
+
+## Mission-Critical Environment
+
+The migration had to be executed while supporting airport operations where database availability was essential.
+
+Key challenges included:
+
+* Maintaining operational continuity
+* Coordinating multiple technical teams
+* Managing legacy system dependencies
+* Ensuring accurate data transition
+
+---
+
+# Business Impact
+
+The migration enabled ADM to:
+
+* Modernize the airport identity ecosystem.
+* Reduce dependency on legacy technology.
+* Improve future scalability.
+* Establish a foundation for improved operational processes.
+* Maintain access to historical GES information through a defined data strategy.
+
+---
+
+# Technologies Used
+
+Microsoft SQL Server
+T-SQL
+Database Migration Processes
+Data Validation Frameworks
+SQL Server Security
+Enterprise Documentation
+Change Management
+
+---
+
+# Skills Demonstrated
+
+✓ Enterprise Migration Leadership
+✓ Database Architecture
+✓ Data Integrity Management
+✓ Production Cutover Planning
+✓ Cross-Team Collaboration
+✓ Mission-Critical System Support

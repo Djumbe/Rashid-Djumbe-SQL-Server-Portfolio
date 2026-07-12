@@ -1,0 +1,286 @@
+# Project 11
+
+# Enterprise SQL Server Security & Compliance Framework
+
+## Database Encryption, Auditing, Access Control & Data Protection
+
+---
+
+## Project Overview
+
+**Role:** Senior SQL Server DBA / Database Architect
+**Project Type:** Enterprise Database Security Implementation
+**Industry Exposure:** Financial Services, Government, Healthcare, Aviation
+
+---
+
+# Business Context
+
+Enterprise organizations managing sensitive information require database platforms that meet strict security, privacy, and compliance requirements.
+
+As a Senior SQL Server DBA, I have implemented and supported database security frameworks designed to protect sensitive information while maintaining availability and operational efficiency.
+
+Security implementations were aligned with industry standards and organizational requirements, including:
+
+* PCI-DSS
+* HIPAA
+* SOX
+* Government security practices
+* Internal security governance policies
+
+---
+
+# Business Challenge
+
+Organizations required stronger protection for sensitive database information including:
+
+* Personally identifiable information (PII)
+* Financial records
+* Operational data
+* Confidential business information
+
+Key challenges included:
+
+* Protecting data at rest.
+* Protecting data in transit.
+* Controlling privileged access.
+* Maintaining audit visibility.
+* Managing encryption keys securely.
+* Supporting compliance requirements.
+
+---
+
+# My Role
+
+As Senior SQL Server DBA / Database Architect, I was responsible for designing, implementing, and maintaining database security controls including:
+
+* Encryption architecture.
+* Access control strategy.
+* Security auditing.
+* Certificate management.
+* Database hardening.
+* Compliance documentation.
+
+---
+
+# Security Solutions Implemented
+
+---
+
+# Transparent Data Encryption (TDE)
+
+## Objective
+
+Protect database files and backups from unauthorized access.
+
+---
+
+## Implementation
+
+Implemented TDE encryption using SQL Server encryption hierarchy:
+
+```
+Service Master Key
+        |
+Database Master Key
+        |
+Certificate
+        |
+Database Encryption Key
+        |
+Encrypted Database Files
+```
+
+---
+
+## Responsibilities
+
+Performed:
+
+* TDE configuration.
+* Certificate creation.
+* Certificate backup and restoration.
+* Encryption validation.
+* Disaster recovery testing.
+
+---
+
+## Business Impact
+
+Provided:
+
+* Protection of sensitive data at rest.
+* Secure database backups.
+* Improved compliance posture.
+
+---
+
+# Always Encrypted Implementation
+
+## Objective
+
+Protect sensitive columns while allowing applications to continue operating normally.
+
+---
+
+## Implementation
+
+Implemented Always Encrypted for sensitive information including:
+
+* Personal data
+* Confidential business attributes
+* Protected information fields
+
+---
+
+## Responsibilities
+
+Configured:
+
+* Column encryption keys.
+* Column master keys.
+* Encryption metadata.
+* Application connectivity requirements.
+
+---
+
+## Business Impact
+
+Enabled stronger data protection by preventing unauthorized database administrators from accessing protected values.
+
+---
+
+# SQL Server Auditing & Extended Events
+
+## Objective
+
+Provide visibility into database activity and security events.
+
+---
+
+## Implemented Monitoring For:
+
+* Login activity
+* Privileged user actions
+* Schema changes
+* Database changes
+* Security-related events
+
+---
+
+## Technologies Used
+
+* SQL Server Audit
+* Extended Events
+* Dynamic Management Views (DMVs)
+
+---
+
+## Business Impact
+
+Delivered:
+
+* Improved security visibility.
+* Audit readiness.
+* Faster investigation capabilities.
+
+---
+
+# Role-Based Access Control (RBAC)
+
+## Objective
+
+Implement least-privilege database access.
+
+---
+
+## Responsibilities
+
+Designed and maintained:
+
+* Database roles.
+* User permissions.
+* Service account access.
+* Administrative privileges.
+
+Applied security principles:
+
+* Least privilege.
+* Separation of duties.
+* Controlled administrative access.
+
+---
+
+# Certificate & Key Management
+
+## Objective
+
+Ensure encryption keys remained secure and recoverable.
+
+---
+
+## Responsibilities
+
+Implemented processes for:
+
+* Certificate creation.
+* Certificate rotation.
+* Certificate renewal.
+* Secure certificate backup.
+* Disaster recovery restoration.
+
+---
+
+# Database Security Automation
+
+Created scripts and automation processes to monitor:
+
+* Encryption status.
+* Certificate expiration.
+* Permission assignments.
+* Security configurations.
+
+Used:
+
+* T-SQL
+* PowerShell
+* SQL Agent Jobs
+
+---
+
+# Operational Documentation
+
+Created technical documentation including:
+
+* Encryption procedures.
+* Certificate management procedures.
+* Restoration procedures.
+* Security standards.
+* Operational runbooks.
+
+---
+
+# Technologies Used
+
+Microsoft SQL Server
+TDE
+Always Encrypted
+SQL Server Audit
+Extended Events
+RBAC
+Certificates
+PowerShell
+T-SQL
+SQL Agent
+
+---
+
+# Skills 
+
+✓ Database Security Architecture
+✓ Encryption Implementation
+✓ Compliance Support
+✓ Access Control Design
+✓ Security Automation
+✓ Enterprise Governance
+✓ Data Protection Strategy

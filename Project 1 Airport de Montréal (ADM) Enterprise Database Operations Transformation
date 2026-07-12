@@ -1,0 +1,83 @@
+Project Overview
+Enterprise Database Operations Transformation
+
+Organization: Airport de Montréal
+Role: Senior SQL Server DBA / Database Team Lead
+Environment: Enterprise Aviation Infrastructure
+
+Business Challenge
+
+Airport operations depend on highly available database systems supporting critical services such as passenger processing, airport security, baggage operations, building automation, and operational reporting.
+
+ADM required modernization of database operations, improved governance, and stronger operational standards while maintaining continuous availability.
+
+My Role
+
+As Senior SQL Server DBA and Database Team Lead, I was responsible for:
+
+Leading database operational transformation.
+Establishing SQL Server best practices.
+Managing database lifecycle processes.
+Supporting enterprise database architecture decisions.
+Coordinating DBA operational activities.
+Providing technical leadership for all SQL Server-related initiatives.
+Environment
+
+Database Platform:
+
+SQL Server 2008 through SQL Server 2022
+Oracle Database
+
+Infrastructure:
+
+On-premises enterprise environment
+VMware virtualization
+Azure cloud services
+
+Scale:
+
+Approximately 250 SQL Server instances
+626 databases
+Largest database approximately 3 TB
+
+Team:
+
+Managed and mentored 9 offshore SQL Server and Oracle DBAs
+Key Achievements
+Database Operations Transition
+
+Led the transition of database operations from one service provider to another.
+
+Activities included:
+
+Knowledge transfer management
+Operational process definition
+Database documentation
+Support model improvement
+Implementation of SQL Server best practices
+
+Result:
+
+Created a more standardized and reliable database operation model.
+
+Enterprise High Availability Modernization
+
+Designed and implemented SQL Server Always On Availability Groups across the enterprise.
+
+Scope:
+
+SQL Server 2016
+SQL Server 2019
+SQL Server 2022
+
+Implemented:
+
+High availability architecture
+Disaster recovery capabilities
+Failover strategies
+Secondary replica configuration
+Operational procedures
+
+Result:
+
+Improved database resiliency and reduced recovery risks for mission-critical airport applications.

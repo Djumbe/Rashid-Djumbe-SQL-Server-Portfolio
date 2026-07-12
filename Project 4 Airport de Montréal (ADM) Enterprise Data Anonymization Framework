@@ -1,0 +1,54 @@
+Project Overview
+
+Role: Senior SQL Server DBA
+Project Type: Data Security & Privacy Protection
+
+Business Challenge
+
+Development and testing teams required realistic production-like data. However, production databases contained sensitive information that could not be exposed outside controlled production environments.
+
+ADM required a secure method to anonymize sensitive information while maintaining data usability.
+
+My Role
+
+Designed and implemented a SQL Server-based data anonymization framework.
+
+Solution
+
+Implemented:
+
+Data masking strategies
+Custom anonymization procedures
+Sensitive column identification
+Repeatable anonymization processes
+Secure refresh procedures
+
+Protected information included:
+
+Personal information
+Operational data
+Sensitive business records
+Technical Approach
+
+Activities included:
+
+Database analysis
+Sensitive data identification
+T-SQL procedure development
+Validation testing
+Documentation
+Business Impact
+
+Delivered:
+
+Secure non-production environments
+Reduced privacy risks
+Improved compliance posture
+Faster development and testing cycles
+Technologies
+
+SQL Server
+T-SQL
+Stored Procedures
+Security Frameworks
+Data Governance

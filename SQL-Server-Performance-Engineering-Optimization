@@ -1,0 +1,224 @@
+# Project 13
+
+# SQL Server Performance Engineering & Optimization
+
+## Enterprise Database Performance Tuning, Troubleshooting & Capacity Management
+
+---
+
+## Project Overview
+
+**Role:** Senior SQL Server DBA / Database Architect
+**Project Type:** Performance Engineering, Query Optimization & Production Stability
+**Industry Exposure:** Aviation, Financial Services, Retail, Energy, Telecommunications
+
+---
+
+# Business Context
+
+Enterprise applications depend on database performance to support critical business operations.
+
+As SQL Server environments grow, organizations face challenges related to:
+
+* Increasing data volumes
+* Complex application workloads
+* Query performance degradation
+* Resource contention
+* Blocking and deadlocks
+* Storage growth
+* Application response time issues
+
+The objective was to maintain reliable database performance and ensure applications continued meeting business requirements.
+
+---
+
+# Business Challenge
+
+Common performance challenges included:
+
+* Slow-running business transactions.
+* Long execution times for critical queries.
+* Blocking and deadlock situations.
+* Inefficient indexing strategies.
+* High CPU and memory utilization.
+* Database growth impacting performance.
+* Poorly optimized stored procedures.
+
+---
+
+# My Role
+
+As Senior SQL Server DBA, I was responsible for:
+
+* Investigating database performance issues.
+* Performing root cause analysis.
+* Optimizing SQL queries.
+* Improving database design.
+* Implementing tuning strategies.
+* Establishing performance baselines.
+* Supporting development teams with database optimization.
+
+---
+
+# Performance Analysis Approach
+
+## SQL Server Diagnostic Tools
+
+Used native SQL Server tools including:
+
+* Dynamic Management Views (DMVs)
+* Query Store
+* Extended Events
+* Execution Plans
+* SQL Server Profiler
+* Activity Monitor
+
+---
+
+# Query Optimization
+
+Performed analysis and optimization of:
+
+* Complex T-SQL queries
+* Stored procedures
+* Views
+* Functions
+* Reporting queries
+
+Optimization activities included:
+
+* Reviewing execution plans.
+* Identifying expensive operators.
+* Reducing unnecessary scans.
+* Improving join strategies.
+* Eliminating inefficient query patterns.
+
+---
+
+# Index Optimization
+
+Designed and maintained indexing strategies including:
+
+* Missing index analysis.
+* Duplicate index identification.
+* Index usage analysis.
+* Clustered index optimization.
+* Non-clustered index improvements.
+
+Performed:
+
+* Index creation.
+* Index rebuilds.
+* Index reorganizations.
+* Statistics maintenance.
+
+---
+
+# Blocking & Deadlock Resolution
+
+Investigated and resolved database concurrency issues.
+
+Performed analysis of:
+
+* Blocking chains.
+* Deadlock graphs.
+* Transaction duration.
+* Lock escalation.
+* Application behavior.
+
+Implemented solutions including:
+
+* Query optimization.
+* Transaction improvements.
+* Index improvements.
+* Application recommendations.
+
+---
+
+# Database Capacity Planning
+
+Performed proactive capacity analysis including:
+
+* Database growth forecasting.
+* Storage planning.
+* Resource utilization analysis.
+* Performance trend analysis.
+
+Supported infrastructure teams with:
+
+* CPU sizing recommendations.
+* Memory requirements.
+* Storage performance analysis.
+
+---
+
+# Development Team Collaboration
+
+Worked closely with application developers to improve database performance.
+
+Provided guidance on:
+
+* SQL coding standards.
+* Query design.
+* Stored procedure optimization.
+* Database schema design.
+* Index strategies.
+
+Reviewed database changes before production deployment.
+
+---
+
+# Performance Monitoring Integration
+
+Used monitoring platforms to identify:
+
+* Performance degradation.
+* Resource bottlenecks.
+* SQL Server health issues.
+
+Integrated performance analysis with:
+
+* Spotlight
+* SolarWinds
+* Foglight
+* Nagios
+
+---
+
+# Automation & Preventive Maintenance
+
+Created automated processes for:
+
+* Performance health checks.
+* Database statistics validation.
+* Index maintenance.
+* Capacity reporting.
+* Environment assessments.
+
+---
+
+# Business Impact
+
+Performance engineering activities delivered:
+
+* Faster application response times.
+* Reduced database bottlenecks.
+* Improved production stability.
+* Better user experience.
+* Increased database reliability.
+
+---
+
+# Technologies Used
+
+Microsoft SQL Server
+T-SQL
+Query Store
+Execution Plans
+DMVs
+Extended Events
+SQL Profiler
+PowerShell
+Spotlight
+SolarWinds
+Foglight

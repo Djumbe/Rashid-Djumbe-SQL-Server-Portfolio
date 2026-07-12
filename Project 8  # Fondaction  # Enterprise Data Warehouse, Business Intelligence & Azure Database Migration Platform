@@ -1,0 +1,308 @@
+# Project 8
+
+# Fondaction
+
+# Enterprise Data Warehouse, Business Intelligence & Azure Database Migration Platform
+
+---
+
+## Project Overview
+
+**Organization:** Fondaction
+**Role:** Senior SQL Server DBA / Data Architect
+**Duration:** 2-Year Contract
+**Project Type:** Data Architecture, Business Intelligence, Cloud Migration & Database Modernization
+
+---
+
+# Business Context
+
+Fondaction is a financial organization requiring reliable, secure, and highly available data platforms to support business operations, analytics, reporting, and decision-making.
+
+The organization required improvements in:
+
+* Enterprise data management
+* Reporting capabilities
+* Business intelligence adoption
+* Database monitoring
+* Cloud modernization
+* Application data architecture
+
+---
+
+# Business Challenge
+
+The organization faced several challenges:
+
+* Growing demand for business analytics and reporting.
+* Need for centralized enterprise data management.
+* Increasing requirements from business teams for self-service analytics.
+* Need for improved SQL Server monitoring and proactive issue detection.
+* Modernization of database infrastructure through Microsoft Azure adoption.
+
+---
+
+# My Role
+
+As Senior SQL Server DBA and Data Architect, I was responsible for:
+
+* Designing and supporting enterprise database architecture.
+* Developing data warehouse solutions.
+* Supporting business intelligence initiatives.
+* Partnering with developers on new application database design.
+* Improving database monitoring capabilities.
+* Leading SQL Server migration activities to Azure.
+* Maintaining database security, availability, and performance.
+
+---
+
+# Technical Environment
+
+## Database Platforms
+
+* Microsoft SQL Server
+* Azure SQL Database
+* SQL Server on Azure Infrastructure
+
+## Business Intelligence
+
+* Power BI
+* SQL Server Reporting Services (SSRS)
+* SQL Server Integration Services (SSIS)
+* SQL Server Analysis Services (SSAS)
+
+## Monitoring
+
+* Spotlight on SQL Server Enterprise
+
+## Development
+
+* T-SQL
+* Stored Procedures
+* Data Modeling
+* Database Design
+
+---
+
+# Project 1: Enterprise Data Warehouse Implementation
+
+## Objective
+
+Design and implement an enterprise data warehouse platform to support analytics and reporting requirements.
+
+---
+
+# Responsibilities
+
+Designed and supported:
+
+* Data warehouse architecture
+* Data models
+* ETL processes
+* Data integration strategies
+* Reporting datasets
+
+Worked with business teams to understand reporting requirements and transform operational data into analytical information.
+
+---
+
+# Solution Approach
+
+Implemented:
+
+* Structured data warehouse layers
+* Optimized SQL Server data models
+* Reporting-ready datasets
+* Performance optimized queries
+
+Supported data availability for:
+
+* Business analysis
+* Operational reporting
+* Strategic decision-making
+
+---
+
+# Business Impact
+
+Delivered:
+
+* Centralized analytical data platform.
+* Improved reporting capabilities.
+* Better access to business insights.
+* Foundation for future BI initiatives.
+
+---
+
+# Project 2: Power BI Reporting Platform
+
+## Objective
+
+Enable business teams to access interactive dashboards and analytics.
+
+---
+
+# Responsibilities
+
+Worked with the Marketing department to:
+
+* Identify reporting requirements.
+* Prepare analytical datasets.
+* Optimize SQL queries.
+* Support Power BI dashboard development.
+
+---
+
+# Solution Delivered
+
+Created data structures supporting:
+
+* Marketing analytics
+* Business performance reporting
+* KPI dashboards
+
+Implemented:
+
+* SQL data models
+* Reporting datasets
+* Performance optimization
+
+---
+
+# Business Impact
+
+Provided:
+
+* Faster access to business information.
+* Improved decision-making.
+* Reduced dependency on manual reporting processes.
+
+---
+
+# Project 3: SQL Server Migration to Azure
+
+## Objective
+
+Modernize database infrastructure by migrating SQL Server workloads from on-premises environments to Microsoft Azure.
+
+---
+
+# Migration Strategy
+
+Implemented a Lift-and-Shift migration approach.
+
+Activities included:
+
+* SQL Server environment assessment.
+* Migration planning.
+* Database preparation.
+* Backup and restore procedures.
+* Connectivity validation.
+* Performance verification.
+
+---
+
+# Responsibilities
+
+Performed:
+
+* SQL Server migration activities.
+* Azure database configuration.
+* Security validation.
+* Post-migration optimization.
+* Production support.
+
+---
+
+# Business Impact
+
+The migration provided:
+
+* Cloud infrastructure modernization.
+* Improved scalability.
+* Increased infrastructure flexibility.
+* Foundation for future cloud adoption.
+
+---
+
+# Project 4: SQL Server Monitoring Implementation
+
+## Objective
+
+Improve database visibility and proactive issue detection.
+
+---
+
+# Solution
+
+Implemented **Spotlight on SQL Server Enterprise** monitoring.
+
+Configured monitoring for:
+
+* Database performance
+* CPU utilization
+* Memory usage
+* Blocking
+* Deadlocks
+* Storage utilization
+* SQL Server health
+
+---
+
+# Business Impact
+
+Delivered:
+
+* Faster problem detection.
+* Improved database reliability.
+* Better operational visibility.
+* Reduced reactive troubleshooting.
+
+---
+
+# Developer Collaboration & Application Support
+
+Supported internal development teams by providing:
+
+* Database architecture guidance.
+* Schema design reviews.
+* Query optimization.
+* Stored procedure development support.
+* Performance troubleshooting.
+* Deployment assistance.
+
+Participated throughout the application lifecycle from design to production deployment.
+
+---
+
+# Technologies Used
+
+Microsoft SQL Server
+Azure SQL Database
+Azure Cloud
+Power BI
+SSIS
+SSRS
+SSAS
+Spotlight SQL Server Enterprise
+T-SQL
+Data Warehouse Architecture
+Data Modeling
+
+---
+
+# Skills Demonstrated
+
+✓ Data Architecture
+✓ Enterprise Data Warehouse Design
+✓ Business Intelligence Solutions
+✓ Cloud Database Migration
+✓ SQL Server Performance Optimization
+✓ Developer Collaboration
+✓ Database Governance
+
+---
+
+# Confidentiality Note
+
+This case study describes technical responsibilities and project outcomes while excluding confidential organizational data, internal architectures, and proprietary information.

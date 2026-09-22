@@ -1,0 +1,52 @@
+DBA Dash Enterprise Monitoring Implementation
+Project Overview
+
+Designed and implemented a centralized SQL Server monitoring solution using DBA Dash to provide real-time visibility into database health, performance, and availability across multiple SQL Server environments.
+
+My Role
+
+Senior SQL Server DBA
+
+Responsibilities
+Installed and configured DBA Dash
+Created monitoring repository database
+Registered SQL Server instances
+Configured data collection jobs
+Validated monitoring data collection
+Implemented health and performance dashboards
+Established baseline performance metrics
+Supported operational monitoring and troubleshooting
+Technologies
+SQL Server 2022
+DBA Dash
+T-SQL
+PowerShell
+Windows Server
+Key Features Implemented
+SQL Instance Monitoring
+Availability Group Monitoring
+Backup Monitoring
+Database Growth Tracking
+Blocking Detection
+Wait Statistics Collection
+Performance Baseline Analysis
+Storage Capacity Reporting
+Results
+
+✅ Centralized monitoring platform
+
+✅ Improved visibility into SQL Server health
+
+✅ Faster troubleshooting and root cause analysis
+
+✅ Proactive capacity planning
+
+✅ Enhanced operational support
+
+Skills Demonstrated
+SQL Monitoring
+Performance Tuning
+Capacity Planning
+SQL Server Administration
+Troubleshooting
+Operational Support

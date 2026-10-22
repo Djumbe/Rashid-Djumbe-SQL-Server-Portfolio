@@ -26,7 +26,9 @@ T-SQL Development
 Infrastructure Modernization
 
 **Featured Enterprise Projects**
-⚡** MGE (Madison Gas & Electric) – Senior SQL Server DBA**
+
+**MGE (Madison Gas & Electric) – Senior SQL Server DBA**
+
 Responsible for administering and supporting mission-critical SQL Server environments supporting enterprise energy operations.
 
 Key Contributions

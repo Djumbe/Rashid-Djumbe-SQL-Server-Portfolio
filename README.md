@@ -10,20 +10,27 @@ Senior SQL Server Database Administrator and Database Architect with 14+ years o
 
 Specialized in SQL Server High Availability and Disaster Recovery (HADR), Azure Data Services, database migrations, performance tuning, automation, security, and enterprise-scale database architecture. Proven track record delivering reliable, scalable, and secure solutions supporting mission-critical business systems.
 
+**Career Highlights**
+
+- 14+ Years SQL Server Experience
+- 600+ Databases Managed
+- 250+ SQL Server Instances Supported
+- 3 TB Largest Production Database
+- 60 SQL Server Instances Migrated
+- 240 Databases Migrated
+- Multiple Enterprise Always On Deployments
+
 **Core Expertise**
 
-SQL Server 2008–2022
-Azure SQL Database
-Azure SQL Managed Instance
-SQL Server on Azure Virtual Machines
-Always On Availability Groups
-Disaster Recovery & Business Continuity
-Performance Tuning & Optimization
-Database Security & Encryption
-Data Warehouse & Business Intelligence
-PowerShell Automation
-T-SQL Development
-Infrastructure Modernization
+- SQL Server 2008–2022
+- Azure SQL Database
+- SQL Server on Azure VMs
+- Always On Availability Groups
+- Disaster Recovery Architecture
+- Database Security & Encryption
+- Performance Optimization
+- Data Warehouse & Business Intelligence
+- PowerShell Automation
 
 **Featured Enterprise Projects**
 
@@ -31,7 +38,8 @@ Infrastructure Modernization
 
 Responsible for administering and supporting mission-critical SQL Server environments supporting enterprise energy operations.
 
-Key Contributions
+**Key Contributions** 
+
 Managed and optimized production SQL Server environments.
 Implemented and maintained Always On Availability Groups.
 Enhanced backup, recovery, and disaster recovery procedures.
@@ -47,17 +55,24 @@ Collaborated with infrastructure, application, and security teams to ensure plat
 **✈️ Aéroports de Montréal – Enterprise SQL Server Modernization**
 
 
-Environment
-250 SQL Server instances
-626 databases
-Largest database: 3 TB
-Key Deliverables
-Led DBA operational transition between service providers.
-Migrated GES ecosystem to SMARTID platform.
+**Environment**
+
+- 250 SQL Server instances
+- 626 databases
+- Largest database: 3 TB
+
+**Key Deliverables**
+
+Led DBA operational transition between service providers. Migrated GES ecosystem to SMARTID platform.
+
 Implemented SQL Server Always On across SQL Server 2016–2022 environments.
+
 Designed data anonymization framework for sensitive information.
+
 Implemented SSRS reporting solutions for Airport Police and Migration departments.
+
 Supported Niagara BMS and Historian database ecosystems.
+
 Performed database performance optimization and capacity planning.
 
 
@@ -115,50 +130,51 @@ Improved overall reliability, availability, and performance of production databa
 
 **Database Technologies**
 
-Microsoft SQL Server 2008–2022
-Azure SQL Database
-Azure SQL Managed Instance
-SQL Server Always On Availability Groups
-SQL Server Integration Services (SSIS)
-SQL Server Reporting Services (SSRS)
-SQL Server Analysis Services (SSAS)
+- Microsoft SQL Server 2008–2022
+- Azure SQL Database
+- Azure SQL Managed Instance
+- SQL Server Always On Availability Groups
+- SQL Server Integration Services (SSIS)
+- SQL Server Reporting Services (SSRS)
+- SQL Server Analysis Services (SSAS)
 
 **Cloud Platforms**
 
-Microsoft Azure
-Azure Virtual Machines
-Azure SQL Services
-Azure Backup
-Azure Storage
-Azure Networking
+- Microsoft Azure
+- Azure Virtual Machines
+- Azure SQL Services
+- Azure Backup
+- Azure Storage
+- Azure Networking
 
 **Automation & Scripting**
 
-PowerShell
-T-SQL
-SQL Server Agent
-Windows Server Administration
+- PowerShell
+- T-SQL
+- SQL Server Agent
+- Windows Server Administration
 
 **Monitoring & Performance Tools**
 
-Spotlight Enterprise
-SolarWinds
-Foglight
-Nagios
-SQL Server Native Monitoring
-Performance Monitor (PerfMon)
+- Spotlight Enterprise
+- SolarWinds
+- Foglight
+- Nagios
+- SQL Server Native Monitoring
+- Performance Monitor (PerfMon)
+- DBA-Dash
 
 **Professional Focus**
 
-Database Architecture
-High Availability & Disaster Recovery
-SQL Server Performance Tuning
-Azure Data Platform Engineering
-Enterprise Database Migrations
-Security & Compliance
-Database Automation
-Capacity Planning
-Operational Excellence
+- Database Architecture
+- High Availability & Disaster Recovery
+- SQL Server Performance Tuning
+- Azure Data Platform Engineering
+- Enterprise Database Migrations
+- Security & Compliance
+- Database Automation
+- Capacity Planning
+- Operational Excellence
 
 **Confidentiality Notice**
 

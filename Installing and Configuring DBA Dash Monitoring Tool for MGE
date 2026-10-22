@@ -1,0 +1,64 @@
+Overview
+
+Successfully deployed and configured DBA Dash, a centralized SQL Server monitoring and performance analysis solution, for the MGE (Madison Gas and Electric) environment in Madison, Wisconsin. 
+The implementation provides real-time monitoring, health checks, performance metrics, and proactive alerting for SQL Server infrastructure.
+
+Objectives
+Centralize SQL Server monitoring.
+Monitor server health and performance.
+Track database growth and utilization.
+Identify blocking, deadlocks, and long-running queries.
+Provide historical performance analysis.
+Improve troubleshooting and capacity planning.
+Environment
+Component	DetailsMonitoring Tool	DBA Dash
+Client	MGE
+Location	Madison, Wisconsin
+Database Platform	Microsoft SQL Server
+Monitoring Database	DBA Dash Repository
+Authentication	Windows Service Account
+Deployment Type	Centralized Monitoring
+Installation Process
+1. Repository Database Setup
+Installed DBA Dash repository database on the designated SQL Server instance.
+Configured database settings and permissions.
+Validated connectivity and service account access.
+2. DBA Dash Agent Deployment
+Installed DBA Dash service on target monitoring server.
+Connected agents to the central repository.
+Configured secure communication between monitored servers and repository database.
+3. Monitoring Configuration
+
+Configured monitoring for:
+
+SQL Server availability
+CPU utilization
+Memory consumption
+Disk space usage
+Database growth
+Backup status
+Job execution status
+Wait statistics
+Blocking and deadlocks
+4. Security Configuration
+Assigned least-privilege SQL permissions.
+Configured service accounts.
+Validated repository and monitored instance access.
+Validation and Testing
+Verified successful data collection from monitored SQL instances.
+Confirmed dashboard visibility and report generation.
+Tested alerting and notification functionality.
+Validated performance metrics collection and historical data retention.
+Outcome
+
+The DBA Dash implementation provides a centralized view of SQL Server health and performance across the MGE environment, enabling proactive monitoring, faster issue resolution, and improved operational visibility for database administration teams.
+
+Technologies Used
+Microsoft SQL Server
+DBA Dash
+Windows Server
+PowerShell
+SQL Server Agent
+
+Role: Senior Database Administrator (DBA)
+ Responsibilities: Installation, configuration, security setup, monitoring implementation, validation testing, and operational handoff.

@@ -163,6 +163,7 @@ Improved overall reliability, availability, and performance of production databa
 - SQL Server Native Monitoring
 - Performance Monitor (PerfMon)
 - DBA-Dash
+- Rubrick
 
 **Professional Focus**
 

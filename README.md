@@ -6,9 +6,20 @@
 🔗 LinkedIn: https://www.linkedin.com/in/rashid-djumbe-411079a1/
 
 **Professional Profile**
-Senior SQL Server Database Administrator and Database Architect with 14+ years of experience designing, implementing, securing, and optimizing enterprise database platforms across aviation, energy, financial services, retail, government, and healthcare sectors.
 
-Specialized in SQL Server High Availability and Disaster Recovery (HADR), Azure Data Services, database migrations, performance tuning, automation, security, and enterprise-scale database architecture. Proven track record delivering reliable, scalable, and secure solutions supporting mission-critical business systems.
+Senior SQL Server Database Administrator and Database Architect with 14+ years of experience delivering enterprise database solutions across aviation, energy, financial services, retail, government, and healthcare sectors.
+
+Specialized in SQL Server High Availability and Disaster Recovery (HADR), 
+Azure Data Services, database migrations, performance tuning, automation, security, and enterprise-scale database architecture. 
+Proven track record delivering reliable, scalable, and secure solutions supporting mission-critical business systems.
+
+**## Portfolio Projects***
+
+- 1. MGE - SQL Operations
+- 2. ADM - Enterprise SQL Modernization
+- 3. UAP - Karmak Fusion Migration
+- 4. Fondaction - Data Warehouse Modernization
+- 5. Innergex - Database Modernization
 
 **Career Highlights**
 
